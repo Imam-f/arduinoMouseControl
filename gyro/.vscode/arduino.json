@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:usbasp",
+    "port": "COM7",
+    "sketch": "gyro\\gyro.ino",
+    "output" : "release"
+}
